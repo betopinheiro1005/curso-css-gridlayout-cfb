@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+  color: #000;
+}
+h2, h3{
+  text-align: center;
+}
+.conteiner{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 200px 100px 50px 25px;
+}
+.item{
+  background-color: #048;
+  color: #fff;
+  border: 1px solid #000;
+  text-align: center;
+}
