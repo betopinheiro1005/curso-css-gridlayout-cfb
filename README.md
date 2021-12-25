@@ -1,7 +1,7 @@
 # Curso de CSS Grid Layout
 ## CFB Cursos (Bruno Pinho Campos)
 
-### [Vídeos do curso}(https://www.youtube.com/watch?v=jb_j6fyQitQ&list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6)
+### [Vídeos do curso](https://www.youtube.com/watch?v=jb_j6fyQitQ&list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6)
 
 ### Lista de aulas  
 
